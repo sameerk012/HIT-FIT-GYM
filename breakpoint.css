@@ -1,0 +1,23 @@
+@media screen and (min-width:0px) and (max-width:600px) {
+    .navitem{
+        display: none;
+    }
+    header{
+        height: 60vh;
+    }
+    .qouts{
+        margin-top: 10vh;
+        font-size: 17vw;
+    }
+
+    .container>img{
+        width: 290px;
+    }
+    .contact-text{
+        height: 190px;
+    }
+
+    form{
+        width: 250px;
+    }
+}   

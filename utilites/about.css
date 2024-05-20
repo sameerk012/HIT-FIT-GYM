@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 80px;
+}
+.container>.image>img{
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+    object-position: center;
+    
+}
+
+.text>h1{
+    text-decoration: underline;
+}
+
+.text>p{
+    text-align:justify;
+}
